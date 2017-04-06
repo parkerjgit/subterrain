@@ -4,8 +4,7 @@ Custom tooling and methodology for exploring structurally performant water tight
 
 ## Demo
 
-<img src="data/n0607-01.6.jpg" width="45%"/> 
-<img src="data/n0607-02.3.jpg" width="45%"/>
+<img src="data/n0607-01.6.jpg" width="45%"/> <img src="data/n0607-02.3.jpg" width="45%"/>
 <img src="data/gh-def-1.png" width="90%"/>
 
 ## Getting Started
@@ -33,7 +32,7 @@ Would like to develop this into fully integrated system for subterrainian archit
 
 ## Contributors
 
-**Joshua Parker** - [PurpleBooth](https://github.com/PurpleBooth)
+**Joshua Parker** - [parkerjgit.github.io](http://parkerjgit.github.io/)
 
 See full list of [contributors](https://github.com/your/project/contributors) who participated in this project. *Currently no contributors*
 
